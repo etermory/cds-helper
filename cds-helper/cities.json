@@ -1,0 +1,2018 @@
+[
+  {
+    "id": 0,
+    "name": "리스본",
+    "latitude": 38,
+    "longitude": -9,
+    "hasLibrary": true,
+    "pixelX": 3525,
+    "pixelY": 914
+  },
+  {
+    "id": 1,
+    "name": "오포르트",
+    "latitude": 41,
+    "longitude": -8,
+    "hasLibrary": false,
+    "pixelX": 3550,
+    "pixelY": 847
+  },
+  {
+    "id": 2,
+    "name": "라코루냐",
+    "latitude": 43,
+    "longitude": -8,
+    "hasLibrary": false,
+    "pixelX": 3552,
+    "pixelY": 802
+  },
+  {
+    "id": 3,
+    "name": "빌바오",
+    "latitude": 43,
+    "longitude": -3,
+    "hasLibrary": false,
+    "pixelX": 3662,
+    "pixelY": 802
+  },
+  {
+    "id": 4,
+    "name": "톨레도",
+    "latitude": 40,
+    "longitude": -4,
+    "hasLibrary": true,
+    "pixelX": 3638,
+    "pixelY": 869
+  },
+  {
+    "id": 5,
+    "name": "사라고사",
+    "latitude": 41,
+    "longitude": -1,
+    "hasLibrary": false,
+    "pixelX": 3705,
+    "pixelY": 846
+  },
+  {
+    "id": 6,
+    "name": "코르도바",
+    "latitude": 38,
+    "longitude": -5,
+    "hasLibrary": false,
+    "pixelX": 3614,
+    "pixelY": 914
+  },
+  {
+    "id": 7,
+    "name": "세빌리아",
+    "latitude": 37,
+    "longitude": -6,
+    "hasLibrary": true,
+    "pixelX": 3591,
+    "pixelY": 936
+  },
+  {
+    "id": 8,
+    "name": "카디스",
+    "latitude": 36,
+    "longitude": -6,
+    "hasLibrary": false,
+    "pixelX": 3590,
+    "pixelY": 958
+  },
+  {
+    "id": 9,
+    "name": "말라가",
+    "latitude": 36,
+    "longitude": -4,
+    "hasLibrary": false,
+    "pixelX": 3634,
+    "pixelY": 958
+  },
+  {
+    "id": 10,
+    "name": "그라나다",
+    "latitude": 37,
+    "longitude": -3,
+    "hasLibrary": true,
+    "pixelX": 3657,
+    "pixelY": 936
+  },
+  {
+    "id": 11,
+    "name": "발렌시아",
+    "latitude": 39,
+    "longitude": 0,
+    "hasLibrary": false,
+    "pixelX": 3725,
+    "pixelY": 891
+  },
+  {
+    "id": 12,
+    "name": "바르셀로나",
+    "latitude": 39,
+    "longitude": 2,
+    "hasLibrary": true,
+    "pixelX": 3770,
+    "pixelY": 891
+  },
+  {
+    "id": 13,
+    "name": "마요르카",
+    "latitude": 41,
+    "longitude": 2,
+    "hasLibrary": false,
+    "pixelX": 3771,
+    "pixelY": 846
+  },
+  {
+    "id": 14,
+    "name": "파리",
+    "latitude": 48,
+    "longitude": 2,
+    "hasLibrary": true,
+    "pixelX": 3778,
+    "pixelY": 690
+  },
+  {
+    "id": 15,
+    "name": "루앙",
+    "latitude": 49,
+    "longitude": 0,
+    "hasLibrary": false,
+    "pixelX": 3734,
+    "pixelY": 668
+  },
+  {
+    "id": 16,
+    "name": "투르",
+    "latitude": 47,
+    "longitude": 0,
+    "hasLibrary": false,
+    "pixelX": 3732,
+    "pixelY": 712
+  },
+  {
+    "id": 17,
+    "name": "낭트",
+    "latitude": 47,
+    "longitude": -2,
+    "hasLibrary": false,
+    "pixelX": 3688,
+    "pixelY": 712
+  },
+  {
+    "id": 18,
+    "name": "보르도",
+    "latitude": 45,
+    "longitude": 1,
+    "hasLibrary": false,
+    "pixelX": 3753,
+    "pixelY": 757
+  },
+  {
+    "id": 19,
+    "name": "툴루즈",
+    "latitude": 43,
+    "longitude": 1,
+    "hasLibrary": false,
+    "pixelX": 3751,
+    "pixelY": 801
+  },
+  {
+    "id": 20,
+    "name": "리옹",
+    "latitude": 45,
+    "longitude": 4,
+    "hasLibrary": false,
+    "pixelX": 3819,
+    "pixelY": 757
+  },
+  {
+    "id": 21,
+    "name": "마르세유",
+    "latitude": 43,
+    "longitude": 5,
+    "hasLibrary": false,
+    "pixelX": 3840,
+    "pixelY": 801
+  },
+  {
+    "id": 22,
+    "name": "브뤼즈",
+    "latitude": 51,
+    "longitude": 3,
+    "hasLibrary": false,
+    "pixelX": 3802,
+    "pixelY": 623
+  },
+  {
+    "id": 23,
+    "name": "엔트워프",
+    "latitude": 52,
+    "longitude": 4,
+    "hasLibrary": false,
+    "pixelX": 3825,
+    "pixelY": 600
+  },
+  {
+    "id": 24,
+    "name": "암스테르담",
+    "latitude": 52,
+    "longitude": 4,
+    "hasLibrary": true,
+    "pixelX": 3825,
+    "pixelY": 600
+  },
+  {
+    "id": 25,
+    "name": "브뤼셀",
+    "latitude": 50,
+    "longitude": 4,
+    "hasLibrary": false,
+    "pixelX": 3824,
+    "pixelY": 645
+  },
+  {
+    "id": 26,
+    "name": "밀라노",
+    "latitude": 45,
+    "longitude": 9,
+    "hasLibrary": true,
+    "pixelX": 3930,
+    "pixelY": 756
+  },
+  {
+    "id": 27,
+    "name": "토리노",
+    "latitude": 45,
+    "longitude": 8,
+    "hasLibrary": false,
+    "pixelX": 3908,
+    "pixelY": 756
+  },
+  {
+    "id": 28,
+    "name": "제노바",
+    "latitude": 44,
+    "longitude": 8,
+    "hasLibrary": true,
+    "pixelX": 3907,
+    "pixelY": 779
+  },
+  {
+    "id": 29,
+    "name": "베니스",
+    "latitude": 45,
+    "longitude": 12,
+    "hasLibrary": false,
+    "pixelX": 3997,
+    "pixelY": 756
+  },
+  {
+    "id": 30,
+    "name": "피렌체",
+    "latitude": 43,
+    "longitude": 11,
+    "hasLibrary": true,
+    "pixelX": 3973,
+    "pixelY": 801
+  },
+  {
+    "id": 31,
+    "name": "피사",
+    "latitude": 43,
+    "longitude": 10,
+    "hasLibrary": false,
+    "pixelX": 3950,
+    "pixelY": 801
+  },
+  {
+    "id": 32,
+    "name": "안코나",
+    "latitude": 43,
+    "longitude": 13,
+    "hasLibrary": false,
+    "pixelX": 4017,
+    "pixelY": 800
+  },
+  {
+    "id": 33,
+    "name": "로마",
+    "latitude": 42,
+    "longitude": 11,
+    "hasLibrary": true,
+    "pixelX": 3972,
+    "pixelY": 823
+  },
+  {
+    "id": 34,
+    "name": "나폴리",
+    "latitude": 41,
+    "longitude": 14,
+    "hasLibrary": true,
+    "pixelX": 4037,
+    "pixelY": 845
+  },
+  {
+    "id": 35,
+    "name": "칼리아스",
+    "latitude": 39,
+    "longitude": 9,
+    "hasLibrary": false,
+    "pixelX": 3925,
+    "pixelY": 890
+  },
+  {
+    "id": 36,
+    "name": "팔레르모",
+    "latitude": 38,
+    "longitude": 13,
+    "hasLibrary": false,
+    "pixelX": 4012,
+    "pixelY": 912
+  },
+  {
+    "id": 37,
+    "name": "시라쿠사",
+    "latitude": 37,
+    "longitude": 15,
+    "hasLibrary": false,
+    "pixelX": 4056,
+    "pixelY": 934
+  },
+  {
+    "id": 38,
+    "name": "런던",
+    "latitude": 50,
+    "longitude": 0,
+    "hasLibrary": true,
+    "pixelX": 3735,
+    "pixelY": 645
+  },
+  {
+    "id": 39,
+    "name": "사우셈프턴",
+    "latitude": 51,
+    "longitude": -1,
+    "hasLibrary": false,
+    "pixelX": 3714,
+    "pixelY": 623
+  },
+  {
+    "id": 40,
+    "name": "브리스틀",
+    "latitude": 51,
+    "longitude": -3,
+    "hasLibrary": false,
+    "pixelX": 3669,
+    "pixelY": 623
+  },
+  {
+    "id": 41,
+    "name": "요크",
+    "latitude": 54,
+    "longitude": -1,
+    "hasLibrary": false,
+    "pixelX": 3716,
+    "pixelY": 556
+  },
+  {
+    "id": 42,
+    "name": "에든버러",
+    "latitude": 56,
+    "longitude": -2,
+    "hasLibrary": false,
+    "pixelX": 3696,
+    "pixelY": 511
+  },
+  {
+    "id": 43,
+    "name": "더블린",
+    "latitude": 53,
+    "longitude": -6,
+    "hasLibrary": false,
+    "pixelX": 3605,
+    "pixelY": 579
+  },
+  {
+    "id": 44,
+    "name": "함부르크",
+    "latitude": 53,
+    "longitude": 9,
+    "hasLibrary": false,
+    "pixelX": 3937,
+    "pixelY": 578
+  },
+  {
+    "id": 45,
+    "name": "뤼베크",
+    "latitude": 54,
+    "longitude": 10,
+    "hasLibrary": false,
+    "pixelX": 3960,
+    "pixelY": 555
+  },
+  {
+    "id": 46,
+    "name": "브레멘",
+    "latitude": 53,
+    "longitude": 8,
+    "hasLibrary": false,
+    "pixelX": 3915,
+    "pixelY": 578
+  },
+  {
+    "id": 47,
+    "name": "쾰른",
+    "latitude": 51,
+    "longitude": 6,
+    "hasLibrary": false,
+    "pixelX": 3869,
+    "pixelY": 622
+  },
+  {
+    "id": 48,
+    "name": "프랑크푸르트",
+    "latitude": 50,
+    "longitude": 7,
+    "hasLibrary": false,
+    "pixelX": 3890,
+    "pixelY": 645
+  },
+  {
+    "id": 49,
+    "name": "스트라스부르크",
+    "latitude": 48,
+    "longitude": 6,
+    "hasLibrary": false,
+    "pixelX": 3866,
+    "pixelY": 689
+  },
+  {
+    "id": 50,
+    "name": "마그데부르크",
+    "latitude": 52,
+    "longitude": 11,
+    "hasLibrary": false,
+    "pixelX": 3981,
+    "pixelY": 600
+  },
+  {
+    "id": 51,
+    "name": "뉘른베르크",
+    "latitude": 49,
+    "longitude": 10,
+    "hasLibrary": false,
+    "pixelX": 3956,
+    "pixelY": 667
+  },
+  {
+    "id": 52,
+    "name": "아우크스부르크",
+    "latitude": 48,
+    "longitude": 10,
+    "hasLibrary": false,
+    "pixelX": 3955,
+    "pixelY": 689
+  },
+  {
+    "id": 53,
+    "name": "프라하",
+    "latitude": 49,
+    "longitude": 14,
+    "hasLibrary": false,
+    "pixelX": 4044,
+    "pixelY": 666
+  },
+  {
+    "id": 54,
+    "name": "비엔나",
+    "latitude": 47,
+    "longitude": 16,
+    "hasLibrary": true,
+    "pixelX": 4087,
+    "pixelY": 711
+  },
+  {
+    "id": 55,
+    "name": "베른",
+    "latitude": 46,
+    "longitude": 7,
+    "hasLibrary": false,
+    "pixelX": 3887,
+    "pixelY": 734
+  },
+  {
+    "id": 56,
+    "name": "단치히",
+    "latitude": 54,
+    "longitude": 18,
+    "hasLibrary": false,
+    "pixelX": 4137,
+    "pixelY": 554
+  },
+  {
+    "id": 57,
+    "name": "쾨니히스베르크",
+    "latitude": 54,
+    "longitude": 19,
+    "hasLibrary": false,
+    "pixelX": 4160,
+    "pixelY": 554
+  },
+  {
+    "id": 58,
+    "name": "리가",
+    "latitude": 57,
+    "longitude": 23,
+    "hasLibrary": false,
+    "pixelX": 4251,
+    "pixelY": 487
+  },
+  {
+    "id": 59,
+    "name": "노브고르트",
+    "latitude": 58,
+    "longitude": 31,
+    "hasLibrary": false,
+    "pixelX": 4429,
+    "pixelY": 464
+  },
+  {
+    "id": 60,
+    "name": "모스크바",
+    "latitude": 56,
+    "longitude": 36,
+    "hasLibrary": false,
+    "pixelX": 4538,
+    "pixelY": 508
+  },
+  {
+    "id": 61,
+    "name": "키에프",
+    "latitude": 50,
+    "longitude": 30,
+    "hasLibrary": false,
+    "pixelX": 4400,
+    "pixelY": 643
+  },
+  {
+    "id": 62,
+    "name": "바르샤바",
+    "latitude": 52,
+    "longitude": 20,
+    "hasLibrary": true,
+    "pixelX": 4180,
+    "pixelY": 599
+  },
+  {
+    "id": 63,
+    "name": "부다페스트",
+    "latitude": 47,
+    "longitude": 18,
+    "hasLibrary": false,
+    "pixelX": 4131,
+    "pixelY": 711
+  },
+  {
+    "id": 64,
+    "name": "스톡홀롬",
+    "latitude": 59,
+    "longitude": 18,
+    "hasLibrary": false,
+    "pixelX": 4142,
+    "pixelY": 443
+  },
+  {
+    "id": 65,
+    "name": "비즈비",
+    "latitude": 57,
+    "longitude": 18,
+    "hasLibrary": false,
+    "pixelX": 4140,
+    "pixelY": 487
+  },
+  {
+    "id": 66,
+    "name": "코펜하겐",
+    "latitude": 55,
+    "longitude": 12,
+    "hasLibrary": true,
+    "pixelX": 4005,
+    "pixelY": 533
+  },
+  {
+    "id": 67,
+    "name": "오슬로",
+    "latitude": 59,
+    "longitude": 10,
+    "hasLibrary": false,
+    "pixelX": 3965,
+    "pixelY": 443
+  },
+  {
+    "id": 68,
+    "name": "베르겐",
+    "latitude": 60,
+    "longitude": 4,
+    "hasLibrary": false,
+    "pixelX": 3832,
+    "pixelY": 422
+  },
+  {
+    "id": 69,
+    "name": "베오그라드",
+    "latitude": 44,
+    "longitude": 20,
+    "hasLibrary": false,
+    "pixelX": 4173,
+    "pixelY": 778
+  },
+  {
+    "id": 70,
+    "name": "부쿠레슈티",
+    "latitude": 45,
+    "longitude": 20,
+    "hasLibrary": false,
+    "pixelX": 4174,
+    "pixelY": 755
+  },
+  {
+    "id": 71,
+    "name": "라구사",
+    "latitude": 42,
+    "longitude": 17,
+    "hasLibrary": false,
+    "pixelX": 4105,
+    "pixelY": 822
+  },
+  {
+    "id": 72,
+    "name": "아테네",
+    "latitude": 38,
+    "longitude": 23,
+    "hasLibrary": true,
+    "pixelX": 4234,
+    "pixelY": 911
+  },
+  {
+    "id": 73,
+    "name": "살로니카",
+    "latitude": 40,
+    "longitude": 23,
+    "hasLibrary": false,
+    "pixelX": 4236,
+    "pixelY": 867
+  },
+  {
+    "id": 74,
+    "name": "간디아",
+    "latitude": 35,
+    "longitude": 25,
+    "hasLibrary": false,
+    "pixelX": 4276,
+    "pixelY": 978
+  },
+  {
+    "id": 75,
+    "name": "파마가스타",
+    "latitude": 35,
+    "longitude": 33,
+    "hasLibrary": false,
+    "pixelX": 4453,
+    "pixelY": 977
+  },
+  {
+    "id": 76,
+    "name": "바르나",
+    "latitude": 42,
+    "longitude": 29,
+    "hasLibrary": false,
+    "pixelX": 4371,
+    "pixelY": 821
+  },
+  {
+    "id": 77,
+    "name": "몬카스트로",
+    "latitude": 44,
+    "longitude": 30,
+    "hasLibrary": false,
+    "pixelX": 4395,
+    "pixelY": 777
+  },
+  {
+    "id": 78,
+    "name": "알렉산드리아",
+    "latitude": 31,
+    "longitude": 30,
+    "hasLibrary": true,
+    "pixelX": 4383,
+    "pixelY": 1067
+  },
+  {
+    "id": 79,
+    "name": "카이로",
+    "latitude": 30,
+    "longitude": 30,
+    "hasLibrary": true,
+    "pixelX": 4382,
+    "pixelY": 1089
+  },
+  {
+    "id": 80,
+    "name": "아스완",
+    "latitude": 24,
+    "longitude": 32,
+    "hasLibrary": false,
+    "pixelX": 4421,
+    "pixelY": 1223
+  },
+  {
+    "id": 81,
+    "name": "트리폴리",
+    "latitude": 32,
+    "longitude": 13,
+    "hasLibrary": false,
+    "pixelX": 4007,
+    "pixelY": 1046
+  },
+  {
+    "id": 82,
+    "name": "튀니스",
+    "latitude": 27,
+    "longitude": 10,
+    "hasLibrary": true,
+    "pixelX": 3936,
+    "pixelY": 1158
+  },
+  {
+    "id": 83,
+    "name": "알제",
+    "latitude": 37,
+    "longitude": 4,
+    "hasLibrary": false,
+    "pixelX": 3812,
+    "pixelY": 935
+  },
+  {
+    "id": 84,
+    "name": "세우타",
+    "latitude": 35,
+    "longitude": 5,
+    "hasLibrary": false,
+    "pixelX": 3833,
+    "pixelY": 980
+  },
+  {
+    "id": 85,
+    "name": "카사블랑카",
+    "latitude": 33,
+    "longitude": 8,
+    "hasLibrary": false,
+    "pixelX": 3897,
+    "pixelY": 1024
+  },
+  {
+    "id": 86,
+    "name": "아조레스",
+    "latitude": 38,
+    "longitude": -28,
+    "hasLibrary": false,
+    "pixelX": 3104,
+    "pixelY": 916
+  },
+  {
+    "id": 87,
+    "name": "마디라",
+    "latitude": 32,
+    "longitude": -16,
+    "hasLibrary": false,
+    "pixelX": 3365,
+    "pixelY": 1049
+  },
+  {
+    "id": 88,
+    "name": "라스팔마스",
+    "latitude": 28,
+    "longitude": -15,
+    "hasLibrary": false,
+    "pixelX": 3383,
+    "pixelY": 1138
+  },
+  {
+    "id": 89,
+    "name": "아르킨",
+    "latitude": 27,
+    "longitude": -13,
+    "hasLibrary": false,
+    "pixelX": 3427,
+    "pixelY": 1160
+  },
+  {
+    "id": 90,
+    "name": "베르덴곶",
+    "latitude": 14,
+    "longitude": -17,
+    "hasLibrary": false,
+    "pixelX": 3327,
+    "pixelY": 1451
+  },
+  {
+    "id": 91,
+    "name": "시에라리온",
+    "latitude": 8,
+    "longitude": -13,
+    "hasLibrary": false,
+    "pixelX": 3410,
+    "pixelY": 1584
+  },
+  {
+    "id": 92,
+    "name": "타가자",
+    "latitude": 26,
+    "longitude": -3,
+    "hasLibrary": false,
+    "pixelX": 3647,
+    "pixelY": 1181
+  },
+  {
+    "id": 93,
+    "name": "톰북투",
+    "latitude": 19,
+    "longitude": -1,
+    "hasLibrary": false,
+    "pixelX": 3686,
+    "pixelY": 1338
+  },
+  {
+    "id": 94,
+    "name": "가오",
+    "latitude": 17,
+    "longitude": -3,
+    "hasLibrary": false,
+    "pixelX": 3639,
+    "pixelY": 1382
+  },
+  {
+    "id": 95,
+    "name": "젠네",
+    "latitude": 15,
+    "longitude": -4,
+    "hasLibrary": false,
+    "pixelX": 3615,
+    "pixelY": 1427
+  },
+  {
+    "id": 96,
+    "name": "가노",
+    "latitude": 14,
+    "longitude": -14,
+    "hasLibrary": false,
+    "pixelX": 3393,
+    "pixelY": 1450
+  },
+  {
+    "id": 97,
+    "name": "산호르해",
+    "latitude": 5,
+    "longitude": 0,
+    "hasLibrary": false,
+    "pixelX": 3695,
+    "pixelY": 1650
+  },
+  {
+    "id": 98,
+    "name": "아페",
+    "latitude": 6,
+    "longitude": -3,
+    "hasLibrary": false,
+    "pixelX": 3630,
+    "pixelY": 1628
+  },
+  {
+    "id": 99,
+    "name": "산토메",
+    "latitude": 0,
+    "longitude": 6,
+    "hasLibrary": false,
+    "pixelX": 3824,
+    "pixelY": 1761
+  },
+  {
+    "id": 100,
+    "name": "르완다",
+    "latitude": -8,
+    "longitude": 13,
+    "hasLibrary": false,
+    "pixelX": 3972,
+    "pixelY": 1939
+  },
+  {
+    "id": 101,
+    "name": "케이프",
+    "latitude": -33,
+    "longitude": 18,
+    "hasLibrary": false,
+    "pixelX": 4061,
+    "pixelY": 2497
+  },
+  {
+    "id": 102,
+    "name": "소팔라",
+    "latitude": -19,
+    "longitude": 34,
+    "hasLibrary": false,
+    "pixelX": 4428,
+    "pixelY": 2183
+  },
+  {
+    "id": 103,
+    "name": "모잠비크",
+    "latitude": -15,
+    "longitude": 40,
+    "hasLibrary": false,
+    "pixelX": 4564,
+    "pixelY": 2093
+  },
+  {
+    "id": 104,
+    "name": "짐바브웨",
+    "latitude": -18,
+    "longitude": 29,
+    "hasLibrary": false,
+    "pixelX": 4318,
+    "pixelY": 2161
+  },
+  {
+    "id": 105,
+    "name": "킬와",
+    "latitude": -8,
+    "longitude": 39,
+    "hasLibrary": false,
+    "pixelX": 4548,
+    "pixelY": 1937
+  },
+  {
+    "id": 106,
+    "name": "잔지바르",
+    "latitude": -7,
+    "longitude": 39,
+    "hasLibrary": false,
+    "pixelX": 4549,
+    "pixelY": 1915
+  },
+  {
+    "id": 107,
+    "name": "몸바사",
+    "latitude": -4,
+    "longitude": 39,
+    "hasLibrary": false,
+    "pixelX": 4552,
+    "pixelY": 1848
+  },
+  {
+    "id": 108,
+    "name": "말린디",
+    "latitude": -2,
+    "longitude": 40,
+    "hasLibrary": false,
+    "pixelX": 4576,
+    "pixelY": 1803
+  },
+  {
+    "id": 109,
+    "name": "모가디슈",
+    "latitude": 2,
+    "longitude": 44,
+    "hasLibrary": false,
+    "pixelX": 4668,
+    "pixelY": 1713
+  },
+  {
+    "id": 110,
+    "name": "악숨",
+    "latitude": 8,
+    "longitude": 38,
+    "hasLibrary": false,
+    "pixelX": 4540,
+    "pixelY": 1580
+  },
+  {
+    "id": 111,
+    "name": "하트툼",
+    "latitude": 15,
+    "longitude": 33,
+    "hasLibrary": false,
+    "pixelX": 4435,
+    "pixelY": 1424
+  },
+  {
+    "id": 112,
+    "name": "이스탄불",
+    "latitude": 41,
+    "longitude": 29,
+    "hasLibrary": true,
+    "pixelX": 4370,
+    "pixelY": 844
+  },
+  {
+    "id": 113,
+    "name": "카파",
+    "latitude": 42,
+    "longitude": 35,
+    "hasLibrary": false,
+    "pixelX": 4504,
+    "pixelY": 821
+  },
+  {
+    "id": 114,
+    "name": "타나",
+    "latitude": 44,
+    "longitude": 38,
+    "hasLibrary": false,
+    "pixelX": 4572,
+    "pixelY": 776
+  },
+  {
+    "id": 115,
+    "name": "시높",
+    "latitude": 39,
+    "longitude": 34,
+    "hasLibrary": false,
+    "pixelX": 4479,
+    "pixelY": 888
+  },
+  {
+    "id": 116,
+    "name": "트레비존드",
+    "latitude": 38,
+    "longitude": 38,
+    "hasLibrary": false,
+    "pixelX": 4567,
+    "pixelY": 910
+  },
+  {
+    "id": 117,
+    "name": "앙골라",
+    "latitude": 38,
+    "longitude": 32,
+    "hasLibrary": false,
+    "pixelX": 4434,
+    "pixelY": 911
+  },
+  {
+    "id": 118,
+    "name": "안티오키아",
+    "latitude": 36,
+    "longitude": 35,
+    "hasLibrary": false,
+    "pixelX": 4498,
+    "pixelY": 955
+  },
+  {
+    "id": 119,
+    "name": "다마스쿠스",
+    "latitude": 32,
+    "longitude": 34,
+    "hasLibrary": true,
+    "pixelX": 4473,
+    "pixelY": 1044
+  },
+  {
+    "id": 120,
+    "name": "예루살렘",
+    "latitude": 32,
+    "longitude": 34,
+    "hasLibrary": true,
+    "pixelX": 4473,
+    "pixelY": 1044
+  },
+  {
+    "id": 121,
+    "name": "베이루트",
+    "latitude": 34,
+    "longitude": 35,
+    "hasLibrary": false,
+    "pixelX": 4497,
+    "pixelY": 1000
+  },
+  {
+    "id": 122,
+    "name": "메디아",
+    "latitude": 24,
+    "longitude": 39,
+    "hasLibrary": false,
+    "pixelX": 4576,
+    "pixelY": 1223
+  },
+  {
+    "id": 123,
+    "name": "메카",
+    "latitude": 21,
+    "longitude": 39,
+    "hasLibrary": true,
+    "pixelX": 4574,
+    "pixelY": 1290
+  },
+  {
+    "id": 124,
+    "name": "아덴",
+    "latitude": 13,
+    "longitude": 45,
+    "hasLibrary": false,
+    "pixelX": 4700,
+    "pixelY": 1468
+  },
+  {
+    "id": 125,
+    "name": "무스카트",
+    "latitude": 23,
+    "longitude": 58,
+    "hasLibrary": false,
+    "pixelX": 4997,
+    "pixelY": 1243
+  },
+  {
+    "id": 126,
+    "name": "바스라",
+    "latitude": 30,
+    "longitude": 48,
+    "hasLibrary": false,
+    "pixelX": 4781,
+    "pixelY": 1088
+  },
+  {
+    "id": 127,
+    "name": "바그다드",
+    "latitude": 32,
+    "longitude": 44,
+    "hasLibrary": true,
+    "pixelX": 4694,
+    "pixelY": 1044
+  },
+  {
+    "id": 128,
+    "name": "호르무즈",
+    "latitude": 27,
+    "longitude": 56,
+    "hasLibrary": false,
+    "pixelX": 4956,
+    "pixelY": 1154
+  },
+  {
+    "id": 129,
+    "name": "시라즈",
+    "latitude": 29,
+    "longitude": 52,
+    "hasLibrary": false,
+    "pixelX": 4869,
+    "pixelY": 1110
+  },
+  {
+    "id": 130,
+    "name": "이스파한",
+    "latitude": 32,
+    "longitude": 51,
+    "hasLibrary": true,
+    "pixelX": 4849,
+    "pixelY": 1043
+  },
+  {
+    "id": 131,
+    "name": "타브리즈",
+    "latitude": 37,
+    "longitude": 43,
+    "hasLibrary": false,
+    "pixelX": 4676,
+    "pixelY": 932
+  },
+  {
+    "id": 132,
+    "name": "사마르칸트",
+    "latitude": 39,
+    "longitude": 66,
+    "hasLibrary": true,
+    "pixelX": 5188,
+    "pixelY": 885
+  },
+  {
+    "id": 133,
+    "name": "타슈겐트",
+    "latitude": 41,
+    "longitude": 69,
+    "hasLibrary": false,
+    "pixelX": 5256,
+    "pixelY": 840
+  },
+  {
+    "id": 134,
+    "name": "우르겐치",
+    "latitude": 41,
+    "longitude": 58,
+    "hasLibrary": false,
+    "pixelX": 5012,
+    "pixelY": 841
+  },
+  {
+    "id": 135,
+    "name": "헤라트",
+    "latitude": 34,
+    "longitude": 63,
+    "hasLibrary": false,
+    "pixelX": 5117,
+    "pixelY": 997
+  },
+  {
+    "id": 136,
+    "name": "카불",
+    "latitude": 34,
+    "longitude": 69,
+    "hasLibrary": false,
+    "pixelX": 5250,
+    "pixelY": 997
+  },
+  {
+    "id": 137,
+    "name": "카슈가르",
+    "latitude": 39,
+    "longitude": 77,
+    "hasLibrary": false,
+    "pixelX": 5432,
+    "pixelY": 884
+  },
+  {
+    "id": 138,
+    "name": "투르판",
+    "latitude": 44,
+    "longitude": 88,
+    "hasLibrary": false,
+    "pixelX": 5680,
+    "pixelY": 772
+  },
+  {
+    "id": 139,
+    "name": "라사",
+    "latitude": 32,
+    "longitude": 90,
+    "hasLibrary": false,
+    "pixelX": 5714,
+    "pixelY": 1040
+  },
+  {
+    "id": 140,
+    "name": "아스트라한",
+    "latitude": 44,
+    "longitude": 4,
+    "hasLibrary": false,
+    "pixelX": 3818,
+    "pixelY": 779
+  },
+  {
+    "id": 141,
+    "name": "카잔",
+    "latitude": 56,
+    "longitude": 44,
+    "hasLibrary": false,
+    "pixelX": 4715,
+    "pixelY": 508
+  },
+  {
+    "id": 142,
+    "name": "사빌",
+    "latitude": 57,
+    "longitude": 72,
+    "hasLibrary": false,
+    "pixelX": 5337,
+    "pixelY": 483
+  },
+  {
+    "id": 143,
+    "name": "호브드",
+    "latitude": 49,
+    "longitude": 90,
+    "hasLibrary": false,
+    "pixelX": 5729,
+    "pixelY": 660
+  },
+  {
+    "id": 144,
+    "name": "카라코룸",
+    "latitude": 49,
+    "longitude": 100,
+    "hasLibrary": false,
+    "pixelX": 5950,
+    "pixelY": 659
+  },
+  {
+    "id": 145,
+    "name": "델리",
+    "latitude": 28,
+    "longitude": 77,
+    "hasLibrary": true,
+    "pixelX": 5422,
+    "pixelY": 1130
+  },
+  {
+    "id": 146,
+    "name": "라호르",
+    "latitude": 31,
+    "longitude": 73,
+    "hasLibrary": false,
+    "pixelX": 5336,
+    "pixelY": 1063
+  },
+  {
+    "id": 147,
+    "name": "아마다바드",
+    "latitude": 23,
+    "longitude": 72,
+    "hasLibrary": false,
+    "pixelX": 5307,
+    "pixelY": 1242
+  },
+  {
+    "id": 148,
+    "name": "디우",
+    "latitude": 21,
+    "longitude": 70,
+    "hasLibrary": false,
+    "pixelX": 5261,
+    "pixelY": 1287
+  },
+  {
+    "id": 149,
+    "name": "비자푸르",
+    "latitude": 16,
+    "longitude": 75,
+    "hasLibrary": false,
+    "pixelX": 5367,
+    "pixelY": 1398
+  },
+  {
+    "id": 150,
+    "name": "고아",
+    "latitude": 15,
+    "longitude": 73,
+    "hasLibrary": false,
+    "pixelX": 5322,
+    "pixelY": 1421
+  },
+  {
+    "id": 151,
+    "name": "카나놀",
+    "latitude": 12,
+    "longitude": 75,
+    "hasLibrary": false,
+    "pixelX": 5364,
+    "pixelY": 1488
+  },
+  {
+    "id": 152,
+    "name": "캘리컷",
+    "latitude": 11,
+    "longitude": 75,
+    "hasLibrary": false,
+    "pixelX": 5363,
+    "pixelY": 1510
+  },
+  {
+    "id": 153,
+    "name": "비자야나가르",
+    "latitude": 15,
+    "longitude": 76,
+    "hasLibrary": false,
+    "pixelX": 5388,
+    "pixelY": 1420
+  },
+  {
+    "id": 154,
+    "name": "코친",
+    "latitude": 10,
+    "longitude": 76,
+    "hasLibrary": false,
+    "pixelX": 5384,
+    "pixelY": 1532
+  },
+  {
+    "id": 155,
+    "name": "콜롬보",
+    "latitude": 7,
+    "longitude": 79,
+    "hasLibrary": false,
+    "pixelX": 5448,
+    "pixelY": 1599
+  },
+  {
+    "id": 156,
+    "name": "골콘다",
+    "latitude": 17,
+    "longitude": 78,
+    "hasLibrary": false,
+    "pixelX": 5434,
+    "pixelY": 1376
+  },
+  {
+    "id": 157,
+    "name": "캘커타",
+    "latitude": 21,
+    "longitude": 88,
+    "hasLibrary": false,
+    "pixelX": 5660,
+    "pixelY": 1285
+  },
+  {
+    "id": 158,
+    "name": "아바",
+    "hasLibrary": false,
+    "pixelX": null,
+    "pixelY": null
+  },
+  {
+    "id": 159,
+    "name": "페구",
+    "hasLibrary": false,
+    "pixelX": null,
+    "pixelY": null
+  },
+  {
+    "id": 160,
+    "name": "말라카",
+    "hasLibrary": false,
+    "pixelX": null,
+    "pixelY": null
+  },
+  {
+    "id": 161,
+    "name": "리콜",
+    "hasLibrary": false,
+    "pixelX": null,
+    "pixelY": null
+  },
+  {
+    "id": 162,
+    "name": "아유타야",
+    "hasLibrary": false,
+    "pixelX": null,
+    "pixelY": null
+  },
+  {
+    "id": 163,
+    "name": "프놈펜",
+    "hasLibrary": false,
+    "pixelX": null,
+    "pixelY": null
+  },
+  {
+    "id": 164,
+    "name": "유에",
+    "hasLibrary": false,
+    "pixelX": null,
+    "pixelY": null
+  },
+  {
+    "id": 165,
+    "name": "교도",
+    "hasLibrary": false,
+    "pixelX": null,
+    "pixelY": null
+  },
+  {
+    "id": 166,
+    "name": "아친",
+    "latitude": -5,
+    "longitude": 95,
+    "hasLibrary": false,
+    "pixelX": 5792,
+    "pixelY": 1865
+  },
+  {
+    "id": 167,
+    "name": "파렌바",
+    "latitude": -2,
+    "longitude": 104,
+    "hasLibrary": false,
+    "pixelX": 5994,
+    "pixelY": 1798
+  },
+  {
+    "id": 168,
+    "name": "반탐",
+    "latitude": -5,
+    "longitude": 105,
+    "hasLibrary": false,
+    "pixelX": 6013,
+    "pixelY": 1865
+  },
+  {
+    "id": 169,
+    "name": "수라바야",
+    "latitude": -7,
+    "longitude": 112,
+    "hasLibrary": false,
+    "pixelX": 6167,
+    "pixelY": 1909
+  },
+  {
+    "id": 170,
+    "name": "브루나이",
+    "latitude": -5,
+    "longitude": 114,
+    "hasLibrary": false,
+    "pixelX": 6213,
+    "pixelY": 1864
+  },
+  {
+    "id": 171,
+    "name": "테르나테",
+    "latitude": 0,
+    "longitude": 127,
+    "hasLibrary": false,
+    "pixelX": 6505,
+    "pixelY": 1751
+  },
+  {
+    "id": 172,
+    "name": "암보이나",
+    "latitude": -3,
+    "longitude": 127,
+    "hasLibrary": false,
+    "pixelX": 6503,
+    "pixelY": 1818
+  },
+  {
+    "id": 173,
+    "name": "오문",
+    "latitude": 22,
+    "longitude": 113,
+    "hasLibrary": false,
+    "pixelX": 6215,
+    "pixelY": 1261
+  },
+  {
+    "id": 174,
+    "name": "광주",
+    "latitude": 22,
+    "longitude": 113,
+    "hasLibrary": true,
+    "pixelX": 6215,
+    "pixelY": 1261
+  },
+  {
+    "id": 175,
+    "name": "천주",
+    "latitude": 25,
+    "longitude": 118,
+    "hasLibrary": false,
+    "pixelX": 6328,
+    "pixelY": 1194
+  },
+  {
+    "id": 176,
+    "name": "복주",
+    "latitude": 26,
+    "longitude": 119,
+    "hasLibrary": false,
+    "pixelX": 6351,
+    "pixelY": 1171
+  },
+  {
+    "id": 177,
+    "name": "함주",
+    "hasLibrary": false,
+    "pixelX": null,
+    "pixelY": null
+  },
+  {
+    "id": 178,
+    "name": "남경",
+    "latitude": 31,
+    "longitude": 121,
+    "hasLibrary": true,
+    "pixelX": 6400,
+    "pixelY": 1059
+  },
+  {
+    "id": 179,
+    "name": "무창",
+    "latitude": 30,
+    "longitude": 113,
+    "hasLibrary": false,
+    "pixelX": 6222,
+    "pixelY": 1082
+  },
+  {
+    "id": 180,
+    "name": "계림",
+    "latitude": 25,
+    "longitude": 109,
+    "hasLibrary": false,
+    "pixelX": 6129,
+    "pixelY": 1194
+  },
+  {
+    "id": 181,
+    "name": "운남",
+    "latitude": 24,
+    "longitude": 102,
+    "hasLibrary": false,
+    "pixelX": 5973,
+    "pixelY": 1217
+  },
+  {
+    "id": 182,
+    "name": "성도",
+    "latitude": 29,
+    "longitude": 103,
+    "hasLibrary": true,
+    "pixelX": 5999,
+    "pixelY": 1106
+  },
+  {
+    "id": 183,
+    "name": "감주",
+    "latitude": 39,
+    "longitude": 98,
+    "hasLibrary": false,
+    "pixelX": 5897,
+    "pixelY": 883
+  },
+  {
+    "id": 184,
+    "name": "서안",
+    "latitude": 33,
+    "longitude": 109,
+    "hasLibrary": true,
+    "pixelX": 6136,
+    "pixelY": 1016
+  },
+  {
+    "id": 185,
+    "name": "개봉",
+    "latitude": 34,
+    "longitude": 114,
+    "hasLibrary": true,
+    "pixelX": 6247,
+    "pixelY": 993
+  },
+  {
+    "id": 186,
+    "name": "제남",
+    "latitude": 37,
+    "longitude": 117,
+    "hasLibrary": false,
+    "pixelX": 6316,
+    "pixelY": 926
+  },
+  {
+    "id": 187,
+    "name": "태원",
+    "latitude": 38,
+    "longitude": 112,
+    "hasLibrary": false,
+    "pixelX": 6206,
+    "pixelY": 904
+  },
+  {
+    "id": 188,
+    "name": "북경",
+    "latitude": 40,
+    "longitude": 116,
+    "hasLibrary": true,
+    "pixelX": 6297,
+    "pixelY": 859
+  },
+  {
+    "id": 189,
+    "name": "요동",
+    "latitude": 41,
+    "longitude": 121,
+    "hasLibrary": false,
+    "pixelX": 6409,
+    "pixelY": 836
+  },
+  {
+    "id": 190,
+    "name": "한양",
+    "latitude": 37,
+    "longitude": 126,
+    "hasLibrary": true,
+    "pixelX": 6516,
+    "pixelY": 925
+  },
+  {
+    "id": 191,
+    "name": "나가사키",
+    "latitude": 32,
+    "longitude": 129,
+    "hasLibrary": false,
+    "pixelX": 6578,
+    "pixelY": 1036
+  },
+  {
+    "id": 192,
+    "name": "사카이",
+    "latitude": 34,
+    "longitude": 135,
+    "hasLibrary": false,
+    "pixelX": 6713,
+    "pixelY": 991
+  },
+  {
+    "id": 193,
+    "name": "쿄토",
+    "latitude": 34,
+    "longitude": 135,
+    "hasLibrary": false,
+    "pixelX": 6713,
+    "pixelY": 991
+  },
+  {
+    "id": 194,
+    "name": "산토도밍고",
+    "latitude": 18,
+    "longitude": -69,
+    "hasLibrary": false,
+    "pixelX": 2178,
+    "pixelY": 1366
+  },
+  {
+    "id": 195,
+    "name": "산티아고",
+    "latitude": 20,
+    "longitude": -76,
+    "hasLibrary": false,
+    "pixelX": 2024,
+    "pixelY": 1322
+  },
+  {
+    "id": 196,
+    "name": "아바나",
+    "latitude": 23,
+    "longitude": -82,
+    "hasLibrary": false,
+    "pixelX": 1894,
+    "pixelY": 1255
+  },
+  {
+    "id": 197,
+    "name": "자메이카",
+    "latitude": 18,
+    "longitude": -77,
+    "hasLibrary": false,
+    "pixelX": 2000,
+    "pixelY": 1366
+  },
+  {
+    "id": 198,
+    "name": "산후안",
+    "latitude": 18,
+    "longitude": -66,
+    "hasLibrary": false,
+    "pixelX": 2244,
+    "pixelY": 1365
+  },
+  {
+    "id": 199,
+    "name": "베라클루즈",
+    "latitude": 19,
+    "longitude": -96,
+    "hasLibrary": false,
+    "pixelX": 1580,
+    "pixelY": 1346
+  },
+  {
+    "id": 200,
+    "name": "테노치티클란",
+    "latitude": 20,
+    "longitude": -101,
+    "hasLibrary": false,
+    "pixelX": 1470,
+    "pixelY": 1324
+  },
+  {
+    "id": 201,
+    "name": "멕시코",
+    "latitude": 20,
+    "longitude": -101,
+    "hasLibrary": true,
+    "pixelX": 1470,
+    "pixelY": 1324
+  },
+  {
+    "id": 202,
+    "name": "투라스칼라",
+    "latitude": 19,
+    "longitude": -98,
+    "hasLibrary": false,
+    "pixelX": 1536,
+    "pixelY": 1346
+  },
+  {
+    "id": 203,
+    "name": "트라파",
+    "latitude": 18,
+    "longitude": -98,
+    "hasLibrary": false,
+    "pixelX": 1535,
+    "pixelY": 1368
+  },
+  {
+    "id": 204,
+    "name": "미틀라",
+    "latitude": 17,
+    "longitude": -95,
+    "hasLibrary": false,
+    "pixelX": 1601,
+    "pixelY": 1390
+  },
+  {
+    "id": 205,
+    "name": "아카풀코",
+    "latitude": 17,
+    "longitude": -100,
+    "hasLibrary": false,
+    "pixelX": 1490,
+    "pixelY": 1391
+  },
+  {
+    "id": 206,
+    "name": "메리다",
+    "latitude": 21,
+    "longitude": -88,
+    "hasLibrary": false,
+    "pixelX": 1759,
+    "pixelY": 1300
+  },
+  {
+    "id": 207,
+    "name": "과테말라",
+    "latitude": 14,
+    "longitude": -90,
+    "hasLibrary": false,
+    "pixelX": 1709,
+    "pixelY": 1457
+  },
+  {
+    "id": 208,
+    "name": "투르히요",
+    "latitude": 15,
+    "longitude": -86,
+    "hasLibrary": false,
+    "pixelX": 1798,
+    "pixelY": 1434
+  },
+  {
+    "id": 209,
+    "name": "레온",
+    "latitude": 11,
+    "longitude": -85,
+    "hasLibrary": false,
+    "pixelX": 1817,
+    "pixelY": 1523
+  },
+  {
+    "id": 210,
+    "name": "파나마",
+    "latitude": 9,
+    "longitude": -79,
+    "hasLibrary": false,
+    "pixelX": 1948,
+    "pixelY": 1568
+  },
+  {
+    "id": 211,
+    "name": "산타마르타",
+    "latitude": 11,
+    "longitude": -75,
+    "hasLibrary": false,
+    "pixelX": 2039,
+    "pixelY": 1523
+  },
+  {
+    "id": 212,
+    "name": "코로",
+    "latitude": 11,
+    "longitude": -70,
+    "hasLibrary": false,
+    "pixelX": 2149,
+    "pixelY": 1522
+  },
+  {
+    "id": 213,
+    "name": "쿠마나",
+    "latitude": 10,
+    "longitude": -64,
+    "hasLibrary": false,
+    "pixelX": 2281,
+    "pixelY": 1544
+  },
+  {
+    "id": 214,
+    "name": "페르남부쿠",
+    "latitude": -7,
+    "longitude": -34,
+    "hasLibrary": false,
+    "pixelX": 2931,
+    "pixelY": 1921
+  },
+  {
+    "id": 215,
+    "name": "바이앙",
+    "latitude": -12,
+    "longitude": -38,
+    "hasLibrary": false,
+    "pixelX": 2838,
+    "pixelY": 2033
+  },
+  {
+    "id": 216,
+    "name": "리우데자네이루",
+    "latitude": -23,
+    "longitude": -44,
+    "hasLibrary": false,
+    "pixelX": 2696,
+    "pixelY": 2279
+  },
+  {
+    "id": 217,
+    "name": "부에노스아이레스",
+    "latitude": -34,
+    "longitude": -58,
+    "hasLibrary": false,
+    "pixelX": 2376,
+    "pixelY": 2526
+  },
+  {
+    "id": 218,
+    "name": "보고타",
+    "latitude": -5,
+    "longitude": -73,
+    "hasLibrary": false,
+    "pixelX": 2069,
+    "pixelY": 1880
+  },
+  {
+    "id": 219,
+    "name": "키토",
+    "latitude": 0,
+    "longitude": -78,
+    "hasLibrary": false,
+    "pixelX": 1962,
+    "pixelY": 1768
+  },
+  {
+    "id": 220,
+    "name": "툼베스",
+    "latitude": -3,
+    "longitude": -80,
+    "hasLibrary": false,
+    "pixelX": 1915,
+    "pixelY": 1836
+  },
+  {
+    "id": 221,
+    "name": "찬찬",
+    "latitude": -6,
+    "longitude": -80,
+    "hasLibrary": false,
+    "pixelX": 1913,
+    "pixelY": 1903
+  },
+  {
+    "id": 222,
+    "name": "리마",
+    "latitude": -12,
+    "longitude": -77,
+    "hasLibrary": false,
+    "pixelX": 1974,
+    "pixelY": 2036
+  },
+  {
+    "id": 223,
+    "name": "쿠스코",
+    "latitude": -13,
+    "longitude": -71,
+    "hasLibrary": false,
+    "pixelX": 2106,
+    "pixelY": 2058
+  },
+  {
+    "id": 224,
+    "name": "나스카",
+    "latitude": -15,
+    "longitude": -75,
+    "hasLibrary": false,
+    "pixelX": 2016,
+    "pixelY": 2103
+  },
+  {
+    "id": 225,
+    "name": "포토시",
+    "latitude": -19,
+    "longitude": -65,
+    "hasLibrary": false,
+    "pixelX": 2234,
+    "pixelY": 2192
+  }
+]
